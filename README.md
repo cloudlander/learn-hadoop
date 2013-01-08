@@ -1,2 +1,2 @@
-learn-hadoop
+sample projects while learning hadoop
 ============
